@@ -1,0 +1,2 @@
+# Smart CLI calculator
+
